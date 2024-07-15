@@ -2,7 +2,7 @@
     <br />
     <img src='./assets/icons/logo.svg' width="260" height="260" alt="logo" />
     <br />
-    <h1>Components</h1>
+    <h1>Modules (NPM)</h1>
 </div>
 
 <br />
